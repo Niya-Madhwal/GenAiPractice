@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+dotenv
+tensorflow
+huggingface
+keras
+transformers
+torch
